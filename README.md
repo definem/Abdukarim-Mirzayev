@@ -1,3 +1,5 @@
-## Abdukarim Mirzayev Website in Next.js
+## My firs app in Next.js.
 
-### Hozir progressda, In Shaa Alloh ertaga ertalabgacha bitirib push qilib qo'yaman ))
+### Abdukarim Mirzayev
+
+#### Hozir progressda, In Shaa Alloh ertaga ertalabgacha bitirib push qilib qo'yaman ))
