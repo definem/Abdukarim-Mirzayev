@@ -2,9 +2,11 @@ import React from "react";
 
 const Footer = () => {
     return (
-        <footer className="footer bg-gray-400">
-            <div className="container mx-auto p-5 ">{new Date().getFullYear()}</div>
-        </footer>
+      <footer className="footer bg-red-400 p-11">
+        <div className="container mx-auto text-center">
+          © Abdukarim Mirzayev | Barcha huquqlar himoyalangan.
+        </div>
+      </footer>
     );
 };
 

@@ -5,6 +5,7 @@ import About from "@/components/About/about";
 import Intro from "@/components/Intro/intro";
 import CourseTitle from "@/components/CourseTitle/courseTitle";
 import AboutCourse from "@/components/AboutCourse/aboutCourse";
+import Reviews from "@/components/Reviews/reviews";
 
 const page = () => {
     return (
@@ -13,6 +14,7 @@ const page = () => {
         <About />
         <CourseTitle/>
         <AboutCourse/>
+        <Reviews/>
       </>
     );
 };
