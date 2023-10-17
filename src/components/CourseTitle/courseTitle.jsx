@@ -11,6 +11,7 @@ const CourseTitle = () => {
         zIndex: "0",
         backgroundSize: "cover",
       }}
+      
     ></div>
   );
 }
