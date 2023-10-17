@@ -5,7 +5,7 @@ import Arrow from "../../../public/assets/icons/arrow.svg";
 const AboutCourse = () => {
   return (
     <div className="container">
-      <div className="m-[60px] flex gap-[20px]">
+      <div className="m-[80px] flex gap-[20px]">
         <div className="">
           {/* 1-dars */}
           <div className="border border-[#FAA40C80] rounded-[5px] w-[510px] h-[255px] p-[40px]">
@@ -81,12 +81,12 @@ const AboutCourse = () => {
               koʻrsatuvni tasvirga tushiramiz.
             </p>
           </div>
-          <div className='flex items-center gap-[20px]'>
-            <button className="flex items-center  rounded-[3px] mt-[15px] px-[14px] gap-[5px] bg-[#FAA40C] hover:bg-orange-400 text-[16px] w-[207px] h-[48px] text-black font-semibold">
+          <div className="flex items-center gap-[20px] mt-[34px]">
+            <button className="flex items-center rounded-[3px]  px-[14px] gap-[5px] bg-[#FAA40C] hover:bg-orange-400 text-[16px] w-[207px] h-[48px] text-black font-semibold">
               Guruhga qo’shilish
               <img src={Arrow.src} alt="arrow icon" />
             </button>
-            <p className="font-semibold text-[11px] mt-[14px] w-[251px] h-[38px]">
+            <p className="font-semibold text-[11px] w-[251px] h-[38px]">
               Ushbu tugmani bosish orqali kursning Telegramdagi saralash
               guruhiga a'zo bo'lasiz →
             </p>
@@ -153,7 +153,7 @@ const AboutCourse = () => {
             </p>
           </div>
           {/* 8-dars */}
-          <div className="border border-[#FAA40C80] rounded-[5px] w-[510px] h-[303px] p-[40px]">
+          <div className="border border-[#FAA40C80] rounded-[5px] w-[510px] h-[303px] p-[40px] mt-[20px]">
             <p className="text-[20px] text-[#00E689] font-semibold mb-[5px]">
               — 08 dars
             </p>
